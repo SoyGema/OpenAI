@@ -1,8 +1,9 @@
 # OpenAI
-OpenAI enviroments exercise and conclusions
-FOr it to work you would install 
+![alt tag](https://github.com/SoyGema/OpenAI/blob/master/openAI_gym.png)
+what is OpenAi gym ?
+A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go.
 
-pip install gym
+what can I find in this repository ?
+Examples of Space invaders environment 
 
-plus atari dependencies
-Study all environments to watch out all the reinforcement learning capabilities in diferent situations
+![alt tag](https://github.com/SoyGema/OpenAI/blob/master/Space_Invaders.jpg)
