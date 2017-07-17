@@ -1,5 +1,5 @@
 
-![alt tag]()
+![alt tag](https://github.com/SoyGema/OpenAI/blob/master/baselines/logo_OPEN_AI.jpg)
 #baseline content 
 A set of high-quality implementations of reinforcement learning algorithms.
 This repository makes available an open source version of Deep Q-Learning and three of its variants.
