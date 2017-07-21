@@ -10,7 +10,7 @@ def callback(lcl, glb):
 
 
 def main():
-    env = gym.make("MountainCar-v0")
+    env = gym.make("CartPole-v0")
     model = deepq.models.mlp([64])
     act = deepq.learn(
         env,
@@ -23,8 +23,8 @@ def main():
         print_freq=10,
         callback=callback
     )
-    print("Saving model to mountain_model.pkl")
-    act.save("mountain_model.pkl")
+    print("Saving model to CartPole_model.pkl")
+    act.save("CartPole_model.pkl")
     
     if __name__ == '__main__':
     main()
