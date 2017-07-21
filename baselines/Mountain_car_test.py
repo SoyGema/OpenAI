@@ -3,8 +3,8 @@ from baselines import deepq
 import numpy as np
 
 def enviroment():
-    env = gym.make("MountainCar-v0")
-    act = deepq.load("mountain_model.pkl")
+    env = gym.make("CartPole-v0")
+    act = deepq.load("CartPole_model.pkl")
 
     while True:
         obs, done = env.reset(), False
