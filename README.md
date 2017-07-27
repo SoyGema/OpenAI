@@ -9,6 +9,6 @@ pip install gym
 
 ## what can I find in this repository ?
 Examples of Space invaders environment 
-Examples of baseline deepq implementation 
+Examples of baseline deepq implementation with classic control examples 
 
 ![alt tag](https://github.com/SoyGema/OpenAI/blob/master/Space_Invaders.jpg)
