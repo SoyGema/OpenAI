@@ -14,16 +14,21 @@ pip install atari[gym]
 
 
 ### what can I find in this repository ?
-Example of Space invaders environment here 
-Examples of baseline deepq implementation with classic control examples here
-Example of keras-rl with Atari Asteroids game here 
+Space invaders environment [here](https://github.com/SoyGema/pySC2-minigames/blob/master/mini-games/DefeatZealots.SC2Map)
+
+Baseline deepq implementation with classic control examples [here](https://github.com/SoyGema/OpenAI/blob/master/QLearning/RL%20-%20QLearning%20.ipynb)
+
+Deepq baseline cart-pole basic example [here](https://github.com/SoyGema/OpenAI/blob/master/baselines/Cart_pole_v0.py)
+
+Example of keras-rl with Atari Asteroids game [here](https://github.com/SoyGema/OpenAI/blob/master/QLearning/dqn_asteroids_gym.ipynb)
 
 ### Aditional resources 
 
 With htop you can measure how your machine is dealing with resources 
 
-``
+```
 htop
 ```
+
 
 ![alt tag](https://github.com/SoyGema/OpenAI/blob/master/Space_Invaders.jpg)
