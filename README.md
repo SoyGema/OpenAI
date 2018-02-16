@@ -14,7 +14,7 @@ pip install atari[gym]
 
 
 ### what can I find in this repository ?
-Space invaders environment [here](https://github.com/SoyGema/pySC2-minigames/blob/master/mini-games/DefeatZealots.SC2Map)
+Space invaders environment basic setup  [here](https://github.com/SoyGema/OpenAI/blob/master/SpaceInvadersDeterministic2.py)
 
 Baseline deepq implementation with classic control examples [here](https://github.com/SoyGema/OpenAI/blob/master/QLearning/RL%20-%20QLearning%20.ipynb)
 
