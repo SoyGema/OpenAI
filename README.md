@@ -29,6 +29,3 @@ With htop you can measure how your machine is dealing with resources
 ```
 htop
 ```
-
-
-![alt tag](https://github.com/SoyGema/OpenAI/blob/master/Space_Invaders.jpg)
